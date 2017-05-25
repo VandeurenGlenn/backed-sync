@@ -1,0 +1,12 @@
+{
+  "name": "backed-sync",
+  "version": "0.1.0",
+  "description": "Watch files & sync them with other devices",
+  "main": "index.js",
+  "repository": "https://github.com/vandeurenglenn/backed-sync",
+  "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.7.0"
+  }
+}
